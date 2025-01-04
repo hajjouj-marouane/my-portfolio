@@ -33,8 +33,8 @@ const Navbar = () => {
 						className='w-[160px] h-auto object-contain'
 					/>
 					<p className='text-secondary text-[18px] font-bold cursor-pointer flex'>
-						Full Stack Developer &nbsp;
-						<span className='sm:block hidden'>| &nbsp;Marouane Hajjouj </span>
+					Marouane  &nbsp;
+						{/* <span className='mb:block hidden'>| &nbsp;Full Stack Developer</span> */}
 					</p>
 				</Link>
 				<ul className='list-none hidden sm:flex flex-row gap-10'>
